@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ify03
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning flutter
 - 📫 Reach me on blessingifebuche200@gmail.com or 08086038096
 Or on facebook @ifebuchechukwu
-  Am a web developer
+  Am a web developer and a mobile app developer
 
 <!---
 ify03/ify03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
